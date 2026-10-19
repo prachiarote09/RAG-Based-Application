@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-yt-dlp
+pypdf
+pymupdf
+youtube-transcript-api
+pytube
+sentence-transformers
+faiss-cpu
+chromadb
+langchain-groq
+python-dotenv
+numpy
+scikit-learn
