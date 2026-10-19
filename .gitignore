@@ -39,4 +39,5 @@ venv/
 .vscode/
 .DS_Store
 faiss_store/
+chroma_db/
 notebook/data/vectore_store/
